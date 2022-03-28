@@ -88,3 +88,4 @@ lmer(data=pd, UPDRS3_score ~ putaminal_DAT_uptake+ asyn + ptau_abeta + GRSAD + G
 
 
 
+
