@@ -18,7 +18,7 @@
 ## putaminal_DAT_uptake = time-varying putaminal DAT uptake values
 
 
-
+library(lme4)
 
 
 ## R code for Table 2. Effect of CSF biomarkers and genetic risk scores on the diaagnosis of PD
